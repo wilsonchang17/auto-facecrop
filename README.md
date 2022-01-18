@@ -1,5 +1,6 @@
 # auto-facecrop
 ## Using this code to crop face image for training machine learning project(Face-Mask Detection)
 ## Example
-[![Alternate Text]({image-url})]({D:/google_download/video-1642494233.mp4} "Link Title")
 
+
+![le](https://user-images.githubusercontent.com/79236612/149900767-e876c758-3e69-4ed3-8750-f54d5ebff3ae.jpg)
