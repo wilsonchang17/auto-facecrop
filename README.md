@@ -1,5 +1,5 @@
 # auto-facecrop
-## Using this code to crop face image for training machine learning project(Face-Mask Detection)
+## Using this code to automatically crop face image for training ML model(Face-Mask Detection)
 ## Example
 
 <p float="left">
